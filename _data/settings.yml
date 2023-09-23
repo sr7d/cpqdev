@@ -1,0 +1,99 @@
+#-------------------------------
+# Site Settings
+title: cpqdev
+# logo: /images/logo.png
+description: Salesforce CPQ Architecture and Development
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Skylar Rhodes
+  author__bio: Hey, I'm Skylar Rhodes, a Salesforce CPQ architect and consultant for hire. I have extensive experience in streamlining lead-to-cash processes and a mastery of CPQ's intricacies. If you're looking for a consultant with technical skills and business acumen, I'm ready to assist!
+  author__avatar: /images/01-1.jpg
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Packages'
+      submenu:
+      - url: '/Which Users Can Sell What Products/'
+        title: 'User Product Filters'      
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title:
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: 
+  blog__description: 
+
+
+#-------------------------------
+# Recommended Tag Settings
+tag:
+  enable: true
+  tag__title: Video Guides
+  tag__name: video-guides
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/images/110.jpg"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:      
+    - title: 'Contact'
+      url: '/contact/'
+    - url: '/Which Users Can Sell What Products/'
+      title: 'Package / Which Users Can Sell What Products'    
+
+
+# Social Links
+social:
+- {icon: "ion-logo-linkedin", color: "#55acee", name: Linkedin, link: "https://www.linkedin.com/in/skylarrhodes/"}
+- {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://www.youtube.com/@cpqdev"}
+- {icon: "ion-logo-github", color: "#ff0000", name: Github, link: "https://www.github.com/sr7d"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  endpoint: https://formspree.io/f/xpzgylpq
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
