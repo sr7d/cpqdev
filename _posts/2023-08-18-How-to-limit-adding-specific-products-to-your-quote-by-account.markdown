@@ -6,7 +6,7 @@ date: 2023-08-18 15:01:35 +0300
 author: admin
 image: /images/SearchFilter.jpg
 image_caption: 
-tags: [Salesforce-CPQ, Search-Filters]
+tags: [search-filters]
 featured:
 video_embed: 
 ---
