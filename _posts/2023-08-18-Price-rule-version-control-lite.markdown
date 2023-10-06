@@ -6,7 +6,7 @@ date: 2023-08-18 15:01:35 +0300
 author: admin
 image: /images/VersionControl.jpg
 image_caption: 
-tags: [Salesforce-CPQ, Version-Control]
+tags: [version-control]
 featured:
 video_embed: 
 ---
