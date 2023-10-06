@@ -6,7 +6,7 @@ date: 2023-08-18 15:01:35 +0300
 author: admin
 image: /images/MDQPopulateSegments.jpg
 image_caption: 
-tags: [Salesforce-CPQ,MDQ,Code]
+tags: [multi-dimensional-quoting,code]
 featured:
 video_embed: 
 ---
