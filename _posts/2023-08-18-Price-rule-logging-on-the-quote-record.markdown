@@ -6,9 +6,9 @@ date: 2023-08-18 15:01:35 +0300
 author: admin
 image: /images/PriceRuleLogging.jpg
 image_caption: 
-tags: [Salesforce-CPQ, Logging]
+tags: [logging,video-guides]
 featured:
-video_embed: 
+video_embed: https://www.youtube.com/embed/vnbmLM9Ik1s?si=7EuiMphm9G3IvD61?rel=0
 ---
 # Price Rule Logging on the Quote Record
 
