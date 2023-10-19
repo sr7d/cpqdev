@@ -8,7 +8,7 @@ image: /images/PriceRuleLogging.jpg
 image_caption: 
 tags: [logging,video-guides]
 featured:
-video_embed: https://www.youtube.com/embed/vnbmLM9Ik1s?si=7EuiMphm9G3IvD61?rel=0
+video_embed: https://www.youtube.com/embed/HpF29uJwdyg?si=xWgBwcXxSRBjQ2YG
 ---
 # Salesforce Logging for Price Rules in CPQ: A Step-by-Step Guide
 
