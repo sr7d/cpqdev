@@ -23,7 +23,7 @@ Price rule logging is essential for several reasons. It provides visibility into
 
 # Creating a Rich Text Field
 
-***I've done this for you in the unmanaged package***
+***[I've done this for you in the Unmanaged Package (click here to install)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHs000000hKkd)***
 
 To begin the logging process, we need a custom field to capture the relevant information. I'll use a rich text field for this purpose. Follow these steps to create one:
 
@@ -81,7 +81,7 @@ Create a new action for an existing Price Rule or dataload a new price action fo
 
 # Create a Flow To Handle New Price Rules
 
-***I've done this for you in the unmanaged package***
+***[I've done this for you in the Unmanaged Package (click here to install)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHs000000hKkd)***
 
 While the above method is effective, it will require you to follow the same steps for every new price rule. To streamline the process, you can build a flow that automates the creation of a new action for each rule. This flow will make your system more scalable and easier to manage.
 
@@ -91,4 +91,4 @@ To access the logged information easily, you should consider updating your Light
 
 # Simplify with an Unmanaged Package
 
-If you find the process of implementing price rule logging complex or time-consuming, I've created an unmanaged package that contains the necessary components and configurations. You can download and install it into your Salesforce org, significantly reducing the effort required to set up the logging mechanism.
+If you find the process of implementing price rule logging complex or time-consuming, I've created an ***[Unmanaged Package (click here to install)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHs000000hKkd)*** that contains the necessary components and configurations to do this for you on all new price rules, however you will still need to dataload actions for existing price rules. If your org is using a custom domain you will need to replace "login.salesforce.com" with your orgs domain name, or to install it in a sanbox replace it with "test.salesforce.com" or the sandboxes domain name.
