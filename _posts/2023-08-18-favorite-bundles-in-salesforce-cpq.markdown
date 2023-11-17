@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add multiple product bundles through favorites instead of "add products"
+title: Templatize Quotes with Favorite Bundles in Salesforce CPQ
 description: Create Collections of Favorite Products for Seamless Quoting. Discover how to streamline your quoting process and boost productivity with this powerful feature.
 date: 2023-08-18 15:01:35 +0300
 author: admin
