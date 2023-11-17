@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to limit adding specific products to your quote by account
+title: Limit Selection of Products by Account in Salesforce CPQ
 description: Learn how to control product access by account type in Salesforce CPQ with search filters, multi-select pick lists, and formula fields.
 date: 2023-08-18 15:01:35 +0300
 author: admin
@@ -67,4 +67,3 @@ Integrate price books with your product management strategy. By assigning specif
 ### Report Upon and Analyze Product Usage
 
 Regularly analyze which products are most popular among different account types. This can also serve for audit purposes to ensure that certain products are actually only being sold to the eligible accounts.
-
