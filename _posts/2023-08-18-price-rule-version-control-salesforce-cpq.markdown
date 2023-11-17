@@ -10,11 +10,7 @@ tags: [version-control]
 featured:
 video_embed: 
 ---
-### Download or DIY
-
-*Here's a link to the unmanaged package that does this version control for you --> _____. Or you can read the article below and build it to your own specs.*
-
-# Price Rule Version Control (Lite)
+# Salesforce CPQ Price Rule Version Control
 
 Price Rules are essential records in Salesforce that act as if it were metadata controlling automation and calculations (but it is data). As business requirements evolve and bug fixes are implemented, managing version control and understanding the changes within Price Rules becomes increasingly difficult. This is especially important when facing audits, resolving issues, or reverting to previous configurations when needed. However, maintaining version control for Price Rules can be challenging due to their use of long text fields, hierarchical data, and the potential for data inconsistencies between production and sandbox orgs.
 
