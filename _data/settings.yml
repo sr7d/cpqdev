@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: cpqdev
+title: Salesforce CPQ solutions, best practices, and implementation guides - cpqdev
 # logo: /images/logo.png
-description: Salesforce CPQ Architecture and Development
+description: Discover best practices or download prebuilt solutions for Salesforce CPQ
 
 
 #-------------------------------
@@ -28,13 +28,13 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title:
+  hero__title: s
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: 
-  blog__description: 
-
+  blog__title: Salesforce CPQ
+  blog__description: solutions, best practices, and implementation guides
+  # blog__call-to-action: Browse the articles below or go straight to  
 
 #-------------------------------
 # Recommended Tag Settings
