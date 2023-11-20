@@ -65,7 +65,7 @@ footer__menu__settings:
     - title: 'Contact'
       url: '/contact/'
     - url: '/Which Users Can Sell What Products/'
-      title: 'Package / Which Users Can Sell What Products'    
+      title: 'Package / User Product Filters'    
 
 
 # Social Links
