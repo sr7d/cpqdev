@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reduce Data Entry for Multiple Terms in Salesforce CPQ
+title: Reduce Data Entry for Multi-Dimensional Quoting
 description: Managing multiple segments for subscription-based products can be complex and error-prone. In this article, we'll show you how to intelligently populate values across MDQ segments, reducing manual data entry, saving time, and improving accuracy.
 date: 2023-08-18 15:01:35 +0300
 author: admin
