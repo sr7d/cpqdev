@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Templatize Quotes with Favorite Bundles in Salesforce CPQ
+title: Templatize Quotes with Favorite Bundles
 description: Create Collections of Favorite Products for Seamless Quoting. Discover how to streamline your quoting process and boost productivity with this powerful feature.
 date: 2023-08-18 15:01:35 +0300
 author: admin
