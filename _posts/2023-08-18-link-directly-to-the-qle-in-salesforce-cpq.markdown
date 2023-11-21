@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quote Line Editor Links in Salesforce CPQ
+title: Quote Line Editor Links
 description: Learn how to enhance your Salesforce experience by providing direct links to and from the Quote Line Editor (QLE). Streamline your sales processes, save time, and improve user productivity with hyperlink formulas, redirects, dynamic link building, and screen flows. 
 date: 2023-08-18 15:01:35 +0300
 author: admin
