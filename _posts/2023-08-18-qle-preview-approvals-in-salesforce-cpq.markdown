@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quote Line Editor Approvals Preview in Salesforce CPQ
+title: Quote Line Editor Approvals Preview
 description: Learn how to preview approval requirements right within the Quote Line Editor (QLE) without the need to save and return to a quote. This guide will show you how to implement this feature using a Visualforce (VF) page, custom action, and Apex controller class.
 date: 2023-08-18 15:01:35 +0300
 author: admin
