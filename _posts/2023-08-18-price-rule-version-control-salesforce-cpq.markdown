@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salesforce CPQ Price Rule Version Control
+title: Price Rule Version Control
 description: Learn to implement a lightweight version control system using Field History and Autolaunched Flows to track changes in long text fields, ensuring smoother audits, issue resolutions, and an error-free Salesforce environment.
 date: 2023-08-18 15:01:35 +0300
 author: admin
