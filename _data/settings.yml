@@ -17,10 +17,14 @@ author:
 # Navigation Settings
 menu__settings:
   menu__items:
+    - title: 'Data Models'
+      submenu:
+      - url: '/salesforce-cpq-data-model/'
+        title: 'CPQ - Primary Objects'
     - title: 'Packages'
       submenu:
-      - url: '/Which Users Can Sell What Products/'
-        title: 'User Product Filters'      
+      - url: '/user-product-filters/'
+        title: 'User Product Filters'               
     - title: 'Contact'
       url: '/contact/'
 
@@ -64,7 +68,9 @@ footer__menu__settings:
   menu__items:      
     - title: 'Contact'
       url: '/contact/'
-    - url: '/Which Users Can Sell What Products/'
+    - url: '/salesforce-cpq-data-model/'
+      title: 'Data Models / CPQ - Primary Objects' 
+    - url: '/user-product-filters/'
       title: 'Package / User Product Filters'    
 
 
@@ -91,8 +97,7 @@ contact:
 # Comment Section (Disqus)
 disqus:
   enable: false
-  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
+  disqus__identifier: cpqdev # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 #-------------------------------
 # Google Analytics
