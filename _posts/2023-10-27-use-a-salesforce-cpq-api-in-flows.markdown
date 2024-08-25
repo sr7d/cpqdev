@@ -10,6 +10,7 @@ tags: [code,flow,api]
 featured:
 video_embed: 
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/use-a-salesforce-cpq-api-in-flows" />
 # Use a Salesforce CPQ API in Flows
 
 Many organizations encounter the need to extend Salesforce CPQ's functionality beyond its standard user interface. One common request is to enable the amendment of contracts, a process similar to generating contract renewals. Unlike the streamlined renewal process, CPQ doesn't provide a built-in option to initiate an amendment quote and opportunity with a simple checkbox on contracts. Customers also look for the flexibility to handle bulk amendments, manage amendments through a portal, or initiate them programmatically via Apex code.
