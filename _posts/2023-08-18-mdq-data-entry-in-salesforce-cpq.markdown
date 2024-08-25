@@ -10,6 +10,7 @@ tags: [multi-dimensional-quoting,code]
 featured:
 video_embed: 
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/mdq-data-entry-in-salesforce-cpq" />
 # How to Populate Values Across MDQ Segments to Reduce Data Entry
 
 In the world of Configure, Price, Quote (CPQ) and Multi-Dimensional Quoting (MDQ), managing multiple segments for a product can be a challenging task. With each segment representing a different term or dimension, data entry can become cumbersome, prone to errors, and time-consuming. Fortunately, there's a solution – you can conditionally populate values across segments to streamline the process and ensure accuracy. In this article, we'll show you how to make the most of MDQ by intelligently populating values across segments in the Quote Line Editor (QLE).
