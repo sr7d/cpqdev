@@ -10,6 +10,7 @@ tags: [quote-line-editor]
 featured:
 video_embed: 
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/link-directly-to-the-qle-in-salesforce-cpq" />
 # Provide Links Directly to and from the Quote Line Editor
 
 In this blog post, we'll describe how to create links to and from the Quote Line Editor through hyperlink formulas, redirects, links within screen flows, and more.
