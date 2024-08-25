@@ -10,6 +10,7 @@ tags: [search-filters]
 featured:
 video_embed: 
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/product-selection-by-account-in-salesforce-cpq" />
 # How to Limit Adding Specific Products to Your Quote by Account
 
 Managing product availability for different types of accounts is a common request, often not all accounts are eligible for the same products. 
