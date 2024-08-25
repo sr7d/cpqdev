@@ -10,6 +10,7 @@ tags: [logging,video-guides]
 featured:
 video_embed: https://www.youtube.com/embed/HpF29uJwdyg?si=xWgBwcXxSRBjQ2YG
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/price-rule-logging-in-salesforce-cpq" />
 # Salesforce Logging for Price Rules in CPQ: A Step-by-Step Guide
 
 Price rules play a vital role in this process, and tracking their behavior is essential. In this article, I'll walk you through the process of implementing Salesforce logging for price rules in CPQ. This approach involves using a rich text field, creating a new price rule action, building a flow for each new action, and updating the Lightning page for a comprehensive solution.
