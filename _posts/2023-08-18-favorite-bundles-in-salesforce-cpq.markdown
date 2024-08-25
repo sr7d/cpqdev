@@ -10,6 +10,7 @@ tags: [best-practices]
 featured:
 video_embed: 
 ---
+<meta http-equiv="refresh" content="0; url=https://qtcdevs.com/favorite-bundles-in-salesforce-cpq" />
 # Add a Collection of Products Through Favorites
 
 You're probably familiar with the concept of favoriting individual products to simplify your quoting process. But did you know that you can also create collections of favorite products and make them easily accessible in the Quote Line Editor (QLE)? In this blog post, we'll explore how you can leverage this powerful feature to enhance your CPQ experience.
